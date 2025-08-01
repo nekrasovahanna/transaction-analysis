@@ -1,6 +1,4 @@
 # Transaktion Analysis Dashboard
 
-This dashboard presents the overall cash flow of the company, separating cashless and cash payments, and showing their trends over time.  
-⚠️ Some of the information is written in Cyrillic, per client request.
-
-![Dashboard Preview](dashboard-preview.png)
+This dashboard presents the company's overall cash flow, divided into cashless and cash payments, and shows their dynamics over time.  
+⚠️ Some labels and values are in Cyrillic script, as required by the client.
