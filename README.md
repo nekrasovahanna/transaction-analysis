@@ -1,4 +1,5 @@
-# Transaktion Analysis Dashboard
+# Transaction Analysis Dashboard
 
-This dashboard presents the company's overall cash flow, divided into cashless and cash payments, and shows their dynamics over time.  
-⚠️ Some labels and values are in Cyrillic script, as required by the client.
+Power BI dashboard that visualizes the company's cash flow by dividing it into cash and non-cash payments, and tracks its dynamics. Some labels are written in Cyrillic, as requested by the client.
+
+![Dashboard Preview](dashboard-preview1.png)
